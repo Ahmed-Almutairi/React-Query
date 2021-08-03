@@ -10,3 +10,7 @@ $ npm i react-query
 # or
 $ yarn add react-query 
   ```
+
+  ### Reference 
+  - https://react-query.tanstack.com/overview 
+  - https://www.youtube.com/watch?v=46vKqPlTW2w 
